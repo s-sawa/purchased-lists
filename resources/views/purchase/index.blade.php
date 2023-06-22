@@ -65,7 +65,7 @@
             </div>
 
             <div class="md:flex mx-auto">
-            {{-- <div class=""> --}}
+            {{-- <div class="aa"> --}}
                 <div class="m-2 mr-6 p-2">
                     <p class="text-center">とても欲しいッ</p>
                     @foreach($lists->where('want_level', 1) as $list)
